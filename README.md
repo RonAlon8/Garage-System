@@ -1,5 +1,5 @@
 # Garage-System
- Introduction:
+## Introduction:
 
 As part of an OOP in C# and the .NET Framework course we were given a task to teach us different elements:
 
@@ -11,7 +11,7 @@ As part of an OOP in C# and the .NET Framework course we were given a task to te
 - Working with Exceptions.
 - Implemention several design patterns.
 
-Our project:
+## Our project:
 
 The end goal: a small system that "manages" a garage.
 The system will know how to manage a garage that currently handles five types of vehicles:
